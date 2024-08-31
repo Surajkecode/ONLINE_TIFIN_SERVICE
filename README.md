@@ -1,10 +1,13 @@
-To organize the provided inform![Screenshot 2024-08-31 152204](https://github.com/user-attachments/assets/ba41c11b-e04b-4d42-b5be-0ddb942c38bd)
-ation about the **Online Tiffin Service Management System** using Django, I'll structure it into sections for clarity:
+(https://github.com/user-attachments/assets/ba41c11b-e04b-4d42-b5be-0ddb942c38bd)
+![Screenshot 2024-08-31 152224](https://github.com/user-attachments/assets/4fa82420-97da-4026-9819-228ef132f4e9)![Screenshot 2024-08-31 152237](https://github.com/user-attachments/assets/ad08bf9b-ae8d-407f-8745-01bddf55a208)
+![Screenshot 2024-08-31 152252](https://github.com/user-attachments/assets/acabdfa1-1fa4-4155-89c4-204a93ba39ec)
 
----![Uploading Screenshot 2024-08-31 152224.png…]()
-![Uploading Screenshot 2024-08-31 152237.png…]()
 
-![Uploading Screenshot 2024-08-31 152252.png…]()
+
+
+To organize the provided information about the **Online Tiffin Service Management System** using Django, I'll structure it into sections for clarity:
+
+
 
 ### **Project Overview**
 The **Online Tiffin Service System** is a Django-based web application designed to create an online portal for both vendors and customers. The system provides an interactive GUI that is easy to use and allows the administrator to manage the entire system from a single portal. The project maintains records of Tiffin orders and includes three main modules: Admin, Vendor, and User.
